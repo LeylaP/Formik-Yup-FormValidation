@@ -1,0 +1,49 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: black;
+  color:white;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+form{
+  width:500px;
+}
+input{
+  width: 100%;
+  padding:5px;
+  border:none;
+  border-radius: 5px;
+  background-color: rgb(22,22,22);
+  border-bottom: 1px solid lightgray;
+  outline: none;
+  color: whitesmoke;
+  
+
+}
+input::placeholder {
+  color: whitesmoke; 
+  font-size: 13px;
+  opacity: 1; 
+}
+.inputDiv{ 
+  margin:30px 0px;
+}
+
+.saveButton{
+  width:100%;
+  padding:7px;
+  color:black;
+  font-weight: 600;
+  border: none;
+  box-shadow: rgba(252, 250, 250, 0.698) 2px 1px 8px;
+border-radius: 8px;
+  background-color: gold;
+
+}
