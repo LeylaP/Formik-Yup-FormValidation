@@ -47,3 +47,7 @@ border-radius: 8px;
   background-color: gold;
 
 }
+.input-error{
+  font-size:15px;
+  color:rgb(194, 55, 55);
+}
