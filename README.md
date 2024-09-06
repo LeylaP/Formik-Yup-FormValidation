@@ -15,4 +15,4 @@
 <br/>
 <hr/>
 <h4>Form Control Gif</h4>
-![Form Control with FormikYup](https://github.com/LeylaP/Formik-Yup-FormValidation/blob/main/src/assets/FormControlFormikYup.gif)
+![Form_Control](https://github.com/LeylaP/Formik-Yup-FormValidation/blob/main/src/assets/FormControlFormikYup.gif)
