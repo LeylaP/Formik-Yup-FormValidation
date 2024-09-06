@@ -4,12 +4,10 @@
 <hr/> <br/>
 <h3>Features</h3>
 <br/>
--  <p><b>Formik:</b> Handles form state management and submission.</p>
--  <p><b>Yup:</b> Provides schema-based form validation.</p>
--  <p><b>React:</b> Used to create a responsive and interactive user interface.</p>
--  <p><b>Vite:</b> A fast build tool for a smooth development experience.</p>
-<br/>
-
+<p><b>Formik:</b> Handles form state management and submission.</p>
+<p><b>Yup:</b> Provides schema-based form validation.</p>
+<p><b>React:</b> Used to create a responsive and interactive user interface.</p>
+<p><b>Vite:</b> A fast build tool for a smooth development experience.</p>
 <br/>
 <h3>Usage</h3>
 <br/>
